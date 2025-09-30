@@ -1,0 +1,7 @@
+C:\Users\algla\OneDrive\Área de Trabalho\programaçao\vs\proggramas\DesignPatern\DesignPatern\obj\Debug\DesignPatern.csproj.AssemblyReference.cache
+C:\Users\algla\OneDrive\Área de Trabalho\programaçao\vs\proggramas\DesignPatern\DesignPatern\obj\Debug\DesignPatern.csproj.CoreCompileInputs.cache
+C:\Users\algla\OneDrive\Área de Trabalho\programaçao\vs\proggramas\DesignPatern\DesignPatern\bin\Debug\DesignPatern.exe.config
+C:\Users\algla\OneDrive\Área de Trabalho\programaçao\vs\proggramas\DesignPatern\DesignPatern\bin\Debug\DesignPatern.exe
+C:\Users\algla\OneDrive\Área de Trabalho\programaçao\vs\proggramas\DesignPatern\DesignPatern\bin\Debug\DesignPatern.pdb
+C:\Users\algla\OneDrive\Área de Trabalho\programaçao\vs\proggramas\DesignPatern\DesignPatern\obj\Debug\DesignPatern.exe
+C:\Users\algla\OneDrive\Área de Trabalho\programaçao\vs\proggramas\DesignPatern\DesignPatern\obj\Debug\DesignPatern.pdb
