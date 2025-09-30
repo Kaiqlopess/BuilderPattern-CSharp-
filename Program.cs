@@ -12,12 +12,16 @@ namespace DesignPatern
         {
             var hamburguer = new ConstrutorHamburguer();
             var diretor = new Diretor(hamburguer);
+            var diretor2 = new Diretor(hamburguer);
 
             diretor.ConstruirHamburguer("bovina","italiano","parmezao");
+            diretor2.ConstruirHamburguer("Suina", "tres queijos", "chedar");
 
             var meuHamburguer = hamburguer.obterHamburguer();
+            var seuHamburguer = hamburguer.obterHamburguer();
 
             Console.WriteLine($"Pão de hamburguer: {meuHamburguer.pao}\nCarne: {meuHamburguer.carne}\nQueijo: {meuHamburguer.queijo}");
+            Console.WriteLine($"Pão de hamburguer: {seuHamburguer.pao}\nCarne: {seuHamburguer.carne}\nQueijo: {seuHamburguer.queijo}");
 
 
         }
