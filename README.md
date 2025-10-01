@@ -1,18 +1,23 @@
-# Builder Pattern em C#
+# 🍔 Builder Pattern — Hamburguer em C#
 
-Este projeto demonstra o uso do padrão de projeto **Builder** em C# para construir objetos complexos passo a passo.
+Este projeto demonstra o uso do padrão de projeto **Builder** em C#, aplicado à construção de hambúrgueres personalizados.
 
-## Como usar
+## 🧱 Estrutura
 
-Abra o projeto no Visual Studio e execute `Program.cs`.
+- `Hamburguer.cs`: Objeto final com pão, carne e queijo
+- `IConstrutorHamburguer.cs`: Interface que define os métodos de construção
+- `ConstrutorHamburguer.cs`: Implementa os métodos e monta o hambúrguer
+- `Diretor.cs`: Controla o processo de montagem
+- `Program.cs`: Ponto de entrada e execução
 
-## Estrutura
+## 🚀 Como usar
 
-- `IBuilder.cs`: Interface do builder
-- `ConcreteBuilder.cs`: Implementação
-- `Director.cs`: Controla o processo
-- `Produto.cs`: Objeto final
+Abra o projeto no Visual Studio e execute `Program.cs`. Dois hambúrgueres são montados com ingredientes diferentes e exibidos no console.
 
-## Autor
+## 💡 Exemplo de saída
 
-Kaique — aprendendo Git e Design Patterns 🚀
+Pão de hamburguer: tres queijos Carne: Suina Queijo: chedar
+
+## 👨‍💻 Autor
+
+Kaique — aprendendo Design Patterns com estilo 🚀
